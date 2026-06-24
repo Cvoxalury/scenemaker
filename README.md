@@ -1,5 +1,5 @@
 # Scenemaker
-Scenemaker is an edited version of Valve's Faseposer. 
+Scenemaker is an edited version of Valve's Faсeposer. 
 
 It includes several bugfixes, some workflow adjustments, a bit of extra convenience. Nothing drastic, but it can make working on scenes a bit better.
 
