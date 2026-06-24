@@ -25,6 +25,7 @@ New features and changes:
 - New -olddialogs command line option enables browsing for models in a usual Explorer browser instead of Steam's in-VPK browser (that requires unpacking models to work). Previously, -nosteamdialog already allowed this; the new command merely brings it on par with HLMV, which also has that option;
 - By default, loops now have the infinite number of loops set (-1) instead of the default being 0 (never looping);
 - "Go to Homepage" Help menu option was renamed to "Open VDC website (Wiki)";
+- A few deprecated/irrelevant menu options have been hidden, such as picking the ground texture;
 - Custom icon, About window and different background colour of the program's window;
 
 ## Compatibility
